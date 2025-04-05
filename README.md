@@ -3,6 +3,7 @@
 ## Requirements
 
 1. You will need the `vertex_service_account.json` file from Tech Advisors to get the credentials
+2. You will need the `.env` file and values for location and project info
 
 ## Rules
 1. Only use the Montreal `LOCATION = "northamerica-northeast1"  # Montréal, Canada` location NOTHING ELSE.
